@@ -490,7 +490,7 @@
   {
    "id": "268",
    "includesPlayerName": false,
-   "prompt": "What every woman is hiding under her bangs",
+   "prompt": "O aquela mulher está escondendo debaixo da saia?",
    "safetyQuips": [
     "an all-seeing third eye",
     "smaller, worse bangs",
@@ -502,7 +502,7 @@
   {
    "id": "27",
    "includesPlayerName": false,
-   "prompt": "The generational nickname for babies born ten years from now ",
+   "prompt": "Qual vai ser o apelido da geração que vai nascer daqui a 10 anos?",
    "safetyQuips": [
     "Baby Gloomers",
     "Gen Why",
@@ -514,7 +514,7 @@
   {
    "id": "271",
    "includesPlayerName": false,
-   "prompt": "A cute nickname for your butt",
+   "prompt": "Um apelido fofo para bunda",
    "safetyQuips": [
     "my lower shoulders",
     "portable seat cushion",
@@ -526,7 +526,7 @@
   {
    "id": "275",
    "includesPlayerName": false,
-   "prompt": "A comment that has NEVER been made on the internet ",
+   "prompt": "Um comentário que NUNCA foi feito na internet",
    "safetyQuips": [
     "I agree with everything in this post",
     "I'm happy to be proven wrong!",
@@ -538,7 +538,7 @@
   {
    "id": "277",
    "includesPlayerName": false,
-   "prompt": "A terrible new name to get from the Witness Protection Program",
+   "prompt": "Qual esporte ficaria muito melhor se colocassemos bebeida como parte dele?",
    "safetyQuips": [
     "Garth Vadar",
     "Tabitha Hinkledorp",
